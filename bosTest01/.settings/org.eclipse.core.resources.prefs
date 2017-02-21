@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/jiawang/chen/bos/crm/CustomerService.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Decidedzone.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Noticebill.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Region.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Staff.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Subarea.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/User.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Workbill.java=UTF-8
+encoding//src/com/jiawang/chen/bos/entity/Workordermanage.java=UTF-8
+encoding//src/com/jiawang/chen/bos/web/utils/FileUtils.java=UTF-8
+encoding//src/com/jiawang/chen/bos/web/utils/MD5Utils.java=UTF-8
+encoding//src/com/jiawang/chen/bos/web/utils/PinYin4jUtils.java=UTF-8
